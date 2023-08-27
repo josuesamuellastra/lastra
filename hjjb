@@ -1,0 +1,47 @@
+\documentclass{11pt}{article}
+\usepackage{sectsty}
+\usepackage{graphicx}
+
+\title{Gestion de datos personales}
+\author{Alvarado Leonardo, Castro Fidel, Angulo Hugo, Guevara Josein, Lastra Josue}
+\date{\today}
+\begin{documet}
+\maketitle
+
+\section{introduccion}
+
+INTRODUCCION
+
+En la era digital actual, donde la tecnología ha permeado todos los aspectos de nuestras vidas, la gestión de datos personales se ha 
+convertido en un tema de profunda relevancia y complejidad. Los datos personales, que abarcan información única y sensible sobre individuos, 
+han adquirido un valor incalculable en diversos contextos, desde el ámbito comercial y médico hasta el gubernamental y social. 
+No obstante, este crecimiento exponencial en la recopilación y uso de datos también ha planteado preocupaciones significativas sobre la privacidad, 
+la seguridad y la ética en la manipulación de esta información tan íntima. Por lo tanto, es imperativo abordar de manera efectiva la gestión de 
+datos personales, estableciendo prácticas que equilibren la utilidad de los datos con la protección de los derechos individuales. 
+
+La ingeniería del software, en su intrincada danza entre la creatividad y la estructura, ha sido siempre un campo en el que los datos personales 
+adquieren un rol crucial. A medida que la tecnología digital se ha enraizado profundamente en nuestra sociedad, los sistemas y aplicaciones que 
+diseñamos y construimos han empezado a tejerse estrechamente con la información personal de los usuarios.
+parrafo 1: 
+
+\section{Objetivos general}
+
+Crear una solución de software para gestionar datos personales que enfoque la eficiencia técnica, funcionalidad y protección de la privacidad, 
+el objetivo es demostrar cómo la ingeniería de software puede mejorar la gestión responsable de datos personales en entornos digitales y cumpliendo 
+con regulaciones pertinentes.
+
+\section{Objetivos especificos}
+
+Analizar y comprender en profundidad los conceptos clave relacionados con la gestión de datos personales, incluyendo la recopilación, almacenamiento, 
+procesamiento y transferencia segura de dichos datos.
+
+Documentar el proceso de diseño y desarrollo, destacando las decisiones tomadas en relación con la gestión de datos personales, los desafíos encontrados 
+y las soluciones implementadas.
+
+begin{enumerate}
+\iten Analizar
+\iten Diseñar
+\iten Programar
+\end{enumerate}
+
+\end{enumerate}
